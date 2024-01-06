@@ -51,6 +51,12 @@
         "isWholeLine": false,
     },
     "files.associations": {
-        "logger.h": "c"
+        "logger.h": "c",
+        "algorithm": "cpp",
+        "optional": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "xstring": "c"
     }
 }
